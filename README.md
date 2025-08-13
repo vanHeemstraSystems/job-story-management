@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+job-story-management
+# Job Story Management
 
 > Slugline
 
@@ -20,6 +20,8 @@ repository-name
 Text
 
 Generated with [Rytr](https://app.rytr.me)
+
+<img width="648" height="332" alt="Image" src="https://github.com/user-attachments/assets/098e6f53-3404-478c-a110-a72fbae80811" />
 
 <table>
 <th colspan="5">Summarize with:</th><tr/> 
