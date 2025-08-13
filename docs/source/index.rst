@@ -1,4 +1,4 @@
-Welcome to Your Project Documentation
+Welcome to Job Story Management Documentation
 ======================================
 
 .. toctree::
