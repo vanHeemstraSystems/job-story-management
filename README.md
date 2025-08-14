@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/job-story-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/job-story-management/actions/workflows/publish.yml)
+
 job-story-management
 # Job Story Management
 
