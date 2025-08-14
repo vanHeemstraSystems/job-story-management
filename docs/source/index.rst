@@ -1,5 +1,5 @@
 Welcome to Job Story Management Documentation
-======================================
+=============================================
 
 .. toctree::
    :maxdepth: 2
