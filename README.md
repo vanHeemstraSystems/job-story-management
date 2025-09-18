@@ -23,7 +23,7 @@ Text
 
 Generated with [Rytr](https://app.rytr.me)
 
-<img width="1262" height="710" alt="Image" src="https://github.com/user-attachments/assets/f31ded1c-45d0-4d93-a2e8-afc54480cec9" />
+<img width="1395" height="897" alt="Image" src="https://github.com/user-attachments/assets/37ed0aa7-1a1d-48a1-8a16-3d22d9390965" />
 
 <table>
 <th colspan="5">Summarize with:</th><tr/> 
